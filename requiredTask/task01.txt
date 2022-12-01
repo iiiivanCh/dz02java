@@ -1,0 +1,3 @@
+{"name":"Ivanov", "country":"Russia", "city":"Moscow", "age":"null"}
+{"name":"Petrov", "country":"Russia", "city":"Rostov", "age":"20"}
+{"name":"Fedorov", "country":"null", "city":"Leningrad", "age":"21"}
