@@ -1,7 +1,6 @@
 package requiredTask;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
@@ -9,10 +8,16 @@ import java.io.BufferedReader;
 
 public class request {
     public static void main(String[] args) throws Exception {
+        System.out.println();
         ArrayList<String> list = isReaderFileLineArray("requiredTask\\task01.txt");
         ArrayList<String[]> listPrepared = requestSQL(list);
         ArrayList<StringBuilder> result = resultRequestSQL(listPrepared);
+        System.out.println();
         System.out.println(result);
+        System.out.println();
+        System.out.println(result.get(0));
+        System.out.println(result.get(1));
+        System.out.println(result.get(2));
     }
 
     static ArrayList<String> isReaderFileLineArray(String direction) throws IOException {
