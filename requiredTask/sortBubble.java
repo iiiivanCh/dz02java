@@ -9,7 +9,7 @@ public class sortBubble {
     static Logger logger = Logger.getLogger(sortBubble.class.getName());
     public static void main(String[] args) {
         try {
-            FileHandler fh = new FileHandler("requiredTask/logSortBubble.txt");
+            FileHandler fh = new FileHandler("requiredTask/logSortBubble.txt", true);
             logger.addHandler(fh);
             SimpleFormatter sFormat = new SimpleFormatter();
             fh.setFormatter(sFormat);

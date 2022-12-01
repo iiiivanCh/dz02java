@@ -1,0 +1,32 @@
+дек. 01, 2022 6:26:25 AM requiredTask.calculator main
+INFO: 3.0
+дек. 01, 2022 6:26:26 AM requiredTask.calculator main
+INFO: 3.0
+дек. 01, 2022 6:26:29 AM requiredTask.calculator main
+INFO: *
+дек. 01, 2022 6:26:29 AM requiredTask.calculator main
+INFO: 9.0
+дек. 01, 2022 6:26:36 AM requiredTask.calculator main
+INFO: 0.0
+дек. 01, 2022 6:26:36 AM requiredTask.calculator main
+INFO: 0.0
+дек. 01, 2022 6:26:36 AM requiredTask.calculator main
+INFO: s
+дек. 01, 2022 6:26:36 AM requiredTask.calculator main
+INFO: 0.0
+дек. 01, 2022 6:56:01 AM requiredTask.calculator main
+INFO: 4.0
+дек. 01, 2022 6:56:02 AM requiredTask.calculator main
+INFO: 5.0
+дек. 01, 2022 6:56:05 AM requiredTask.calculator main
+INFO: +
+дек. 01, 2022 6:56:05 AM requiredTask.calculator main
+INFO: 9.0
+дек. 01, 2022 6:56:11 AM requiredTask.calculator main
+INFO: 0.0
+дек. 01, 2022 6:56:11 AM requiredTask.calculator main
+INFO: 0.0
+дек. 01, 2022 6:56:11 AM requiredTask.calculator main
+INFO: s
+дек. 01, 2022 6:56:11 AM requiredTask.calculator main
+INFO: 0.0
